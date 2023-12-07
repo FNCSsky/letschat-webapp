@@ -34,3 +34,16 @@ function redirectToRoomName () {
     
 }
 
+    function logout() {
+
+
+
+        
+    }
+
+    function send() {
+
+
+        
+    }
+
